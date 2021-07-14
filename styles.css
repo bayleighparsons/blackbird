@@ -1,0 +1,65 @@
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 125%;
+	background: url(img/blackbird.png) fixed center;
+	width: 100%;
+	padding: 5%;
+	margin: auto;
+	background-size: 100%;
+}
+
+header {
+	height: 9%;
+	padding: 1.5%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	border-width: 3%;
+	font-size: 1em;
+	opacity: 0.9;
+  	background-color: #797587;
+  	text-align: center;
+  	margin: auto;
+}
+
+#wrapper {
+	width: 90%;
+	margin: auto;
+	border: 0.7%;
+}
+
+h3 {
+	font-size: 1.3em;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+div {
+	margin: auto;
+  	width: 90%;
+  	padding: 3%;
+}
+
+.container {
+	margin: auto;
+	width: 70%;
+  	opacity: 0.9;
+  	background-color: #797587;
+  	text-align: center;
+	font-size: .9em;
+	padding: 4%;
+}
+
+#bio {
+	font-size: 1em;
+	opacity: 0.9;
+  	background-color: #797587;
+  	margin: auto;
+  	padding: 3%;
+}
+
+a:link, a:visited {
+	color: #363636;
+	text-decoration: none;
+}
+a:hover, a:focus {
+	color: white;
+}
